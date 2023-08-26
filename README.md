@@ -26,18 +26,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Tic Tac T**, run this command on your git bash:
+To run **Tic Tac Toe**, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Pranav-Jadhav09/memory-card-game-v2.git
+sudo git clone https://github.com/Pranav-Jadhav09/tic-tac-toe.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Pranav-Jadhav09/memory-card-game-v2.git
+git clone https://github.com/Pranav-Jadhav09/tic-tac-toe.git
 ```
 
 ### License
