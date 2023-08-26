@@ -13,7 +13,7 @@
 <h2 align="center">Tic Tac Toe</h2>
 Enjoy the classic game of Tic Tac Toe with our interactive web version! Play against a friend in this two-player game crafted using HTML, CSS, and JavaScript. Experience the thrill of competition as X's and O's battle it out on the grid. Be prepared for exhilarating wins and intense draws, with popup notifications highlighting victories and ties. Play now and relive the timeless excitement of Tic Tac Toe in a digital twist.
 
-<a href="https://memory-card-game-v2-jrpranav.netlify.app/"><strong>➥ Play Now</strong></a>
+<a href="https://tic-tac-toe-jrpranav.netlify.app/"><strong>➥ Play Now</strong></a>
 
 </div>
 
